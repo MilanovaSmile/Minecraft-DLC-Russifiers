@@ -22,7 +22,7 @@ resource_packs\rp0\texts
 # Поддерживаемые версии DLC
 | Название           | Версия |
 |--------------------|:------:|
-| Maincraft in Movie |  1.0.9 |
+| Minecraft in Movie |  1.0.9 |
 | Moana 2            | 1.0.18 |
 
 # Поддержка
